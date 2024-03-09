@@ -1,0 +1,22 @@
+{
+  "name": "wolf88",
+  "version": "1.0.0",
+  "description": "this is testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqblmynwr88/wolf88.git"
+  },
+  "keywords": [
+    "wolf88"
+  ],
+  "author": "wolf88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iqblmynwr88/wolf88/issues"
+  },
+  "homepage": "https://github.com/iqblmynwr88/wolf88#readme"
+}
